@@ -16,7 +16,7 @@ export class AppComponent {
       }
     } else {
       this.navbg={
-        
+         
       }
     }
   };
